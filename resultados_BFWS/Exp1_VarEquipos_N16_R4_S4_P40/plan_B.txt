@@ -1,0 +1,7 @@
+(macro-admin-noshow m1 team-1)
+(promote-to-next-round m1 m9 team-1 home)
+(macro-admin-noshow m9 team-1)
+(promote-to-next-round m9 m13 team-1 home)
+(macro-admin-noshow m13 team-1)
+(promote-to-next-round m13 m15 team-1 home)
+(macro-admin-noshow m15 team-1)

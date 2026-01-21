@@ -1,0 +1,3 @@
+Conflictos inyectados: 6
+Dominio A: lec-winter-split
+Dominio B: lec-winter-split-macros

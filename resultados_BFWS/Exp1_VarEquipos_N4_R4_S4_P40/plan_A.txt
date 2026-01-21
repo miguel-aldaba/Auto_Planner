@@ -1,0 +1,8 @@
+(start-champ-select m1 server-4 team-1 team-2)
+(declare-noshow m1 team-1)
+(promote-to-next-round m1 m3 team-1 home)
+(start-champ-select m2 server-3 team-3 team-4)
+(declare-noshow m2 team-3)
+(promote-to-next-round m2 m3 team-3 away)
+(start-champ-select m3 server-1 team-1 team-3)
+(declare-noshow m3 team-1)
